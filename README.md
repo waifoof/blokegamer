@@ -5,6 +5,9 @@ They're generally just for fun so I can learn modding and usually involve me put
 The current games that have been modded are:
 
 Baldur's Gate 2 (Original) works with the BGT mod too so this includes Baldur's Gate 1
+
 Neverwinter Nights
+
 Lethal Company
+
 Persona 4 Golden 32-Bit
